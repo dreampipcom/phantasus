@@ -1,6 +1,6 @@
-# Oneiros - DreamPip's Design System
+# Phantasus - DreamPip's Augmented Reality Web Components
 
-What: React NPM Component Library
+What: React NPM Component Library, AR.js, WebXR
 
 ## Getting Started
 ```
@@ -11,7 +11,7 @@ npm run storybook
 
 Documentation: TBD
 
-Canary Storybook: https://oneiros.vercel.app
+Canary Storybook: TBD
 
 License: HPL3-ECO-AND-ANC 2021—Present
 
